@@ -1,0 +1,28 @@
+name: 'Smith & Dragoman'
+favicon: null
+layout_spectrum: 0.17713921796530485
+typography_spectrum: 0.7958790501579642
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9438919371459633
+  lightness: 0.7077664674725384
+  saturation: 0.22875493788160384
+  rhythmicContrast: 0.04572211904451251
+purpose: []
